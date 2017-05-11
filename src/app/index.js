@@ -1,6 +1,7 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 require('./css/index.css');
+import {Router, Route} from 'react-router';
 
 // Module requires
 var TodoItem = require('./todoItem');
