@@ -11,3 +11,4 @@ Install dependencies and setup:
 Notes:
 - JSX/ES6 -> Babel -> Vanilla JS
 - Wepack to config Babel
+- Video series is actually quite old and some parts will be depreciated.
